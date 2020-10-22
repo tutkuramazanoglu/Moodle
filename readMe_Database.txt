@@ -1,0 +1,1 @@
+For database connection sql server management studio is used.
